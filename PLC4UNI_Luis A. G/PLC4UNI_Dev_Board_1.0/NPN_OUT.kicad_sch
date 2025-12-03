@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "2120cc10-b0d2-4737-9a53-64d0136dab71")
+	(uuid "6ca5ce99-025b-43b9-ae2b-e0b925ed82a3")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Isolator:TLP290"
